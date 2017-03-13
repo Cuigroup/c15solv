@@ -1,5 +1,4 @@
-
-#ID,    COMPLEX                             GAS          4ANGS       6ANGS         8ANGS
+"ID", " COMPLEX                          "," GAS    ", " 4ANGS  ", " 6ANGS  ", " 8ANGS "
 "1 ", "acetate methanol                  ", "-19.75 ", " -11.36 ", " -11.84 ", " -12.62"
 "2 ", "acetate water                     ", "-21.06 ", " -15.28 ", " -14.44 ", " -15.33"
 "3 ", "acetate methylamine               ", "-11.46 ", " 0.35   ", " 0.30   ", " -0.46 "
